@@ -1,0 +1,2 @@
+C:\Users\Vedang R Mahadeshwar\source\repos\objectdetection\x64\Debug\opticalcharacterrecognition.exe
+C:\Users\Vedang R Mahadeshwar\source\repos\objectdetection\x64\Debug\opticalcharacterrecognition.pdb

@@ -1,0 +1,4 @@
+﻿C:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (objectdetection.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ocr.cpp
+C:\Users\Vedang R Mahadeshwar\source\repos\objectdetection\ocr.cpp(99,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  objectdetection.vcxproj -> C:\Users\Vedang R Mahadeshwar\source\repos\objectdetection\x64\Debug\opticalcharacterrecognition.exe
